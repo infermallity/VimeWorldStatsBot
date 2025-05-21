@@ -1,0 +1,250 @@
+[
+    {
+        "id": "ANN",
+        "name": "Annihilation",
+        "global_stats": ["kills", "bowkills", "wood", "ores", "nexus", "digged"],
+        "season_stats": {
+            "monthly": ["kills", "bowkills", "wood", "ores", "nexus", "digged"]
+        }
+    },
+    {
+        "id": "BB",
+        "name": "BuildBattle",
+        "global_stats": ["games", "wins"],
+        "season_stats": {
+            "monthly": ["games", "wins"]
+        }
+    },
+    {
+        "id": "BP",
+        "name": "BlockParty",
+        "global_stats": ["games", "wins", "levels"],
+        "season_stats": {
+            "monthly": ["games", "wins", "levels"]
+        }
+    },
+    {
+        "id": "BW",
+        "name": "BedWars",
+        "global_stats": ["kills", "deaths", "games", "wins", "bedBreaked"],
+        "season_stats": {
+            "monthly": ["kills", "deaths", "games", "wins", "bedBreaked"]
+        }
+    },
+    {
+        "id": "BWHYPE",
+        "name": "BedWars",
+        "global_stats": ["kills", "deaths", "games", "wins", "final_kills", "destroyed_beds"],
+        "season_stats": {
+            "monthly": ["kills", "deaths", "games", "wins", "final_kills", "destroyed_beds"]
+        }
+    },
+    {
+        "id": "BWT",
+        "name": "BedWars Turbo",
+        "global_stats": ["kills", "deaths", "games", "wins", "bedBreaked", "spent_coins"],
+        "season_stats": {
+            "monthly": ["kills", "deaths", "games", "wins", "bedBreaked", "spent_coins"]
+        }
+    },
+    {
+        "id": "CP",
+        "name": "ClashPoint",
+        "global_stats": ["kills", "deaths", "games", "wins", "resourcePointsBreaked"],
+        "season_stats": {
+            "monthly": ["kills", "deaths", "games", "wins", "resourcePointsBreaked"]
+        }
+    },
+    {
+        "id": "DUELS",
+        "name": "Duels",
+        "global_stats": ["solo_wins", "solo_games", "team_wins", "team_games", "ranked_games", "ranked_wins", "total_wins", "total_games", "wins_classic", "wins_bow", "wins_op", "wins_potion", "wins_uhc", "wins_bwh", "maxstrike"],
+        "season_stats": {
+            "monthly": ["solo_wins", "solo_games", "team_wins", "team_games", "ranked_games", "ranked_wins", "total_wins", "total_games", "wins_classic", "wins_bow", "wins_op", "wins_potion", "wins_uhc", "wins_bwh", "rate", "max_rate"]
+        }
+    },
+    {
+        "id": "GG",
+        "name": "GunGame",
+        "global_stats": ["kills", "wins", "games", "levels"],
+        "season_stats": {
+            "monthly": ["kills", "wins", "games", "levels"]
+        }
+    },
+    {
+        "id": "HG",
+        "name": "HungerGames",
+        "global_stats": ["kills", "wins", "games"],
+        "season_stats": {
+            "monthly": ["kills", "wins", "games"]
+        }
+    },
+    {
+        "id": "KPVP",
+        "name": "KitPvP",
+        "global_stats": ["kills", "deaths", "points"],
+        "season_stats": {
+            "monthly": ["kills", "deaths"]
+        }
+    },
+    {
+        "id": "MW",
+        "name": "MobWars",
+        "global_stats": ["games", "wins", "mobsKilled", "mobsSended", "maxIncome"],
+        "season_stats": {
+            "monthly": ["games", "wins", "mobsKilled", "mobsSended"]
+        }
+    },
+    {
+        "id": "PRISON",
+        "name": "Prison",
+        "global_stats": ["total_blocks", "earned_money", "kills", "deaths", "mobs", "blocks"],
+        "season_stats": {
+            "manual": ["total_blocks", "earned_money", "kills", "deaths", "mobs", "blocks"]
+        }
+    },
+    {
+        "id": "PRISON_LITE",
+        "name": "Prison Lite",
+        "global_stats": ["total_blocks", "earned_money", "kills", "deaths", "mobs", "blocks"],
+        "season_stats": {
+            "manual": ["total_blocks", "earned_money", "kills", "deaths", "mobs", "blocks"]
+        }
+    },
+    {
+        "id": "SW",
+        "name": "SkyWars",
+        "global_stats": ["wins", "games", "kills", "deaths", "arrowsFired", "blocksBroken", "blocksPlaced", "currentWinStreak", "winStreak"],
+        "season_stats": {
+            "monthly": ["wins", "games", "kills", "deaths", "arrowsFired", "blocksBroken", "blocksPlaced"]
+        }
+    },
+    {
+        "id": "ARC",
+        "name": "Аркады",
+        "global_stats": ["games", "wins", "kills", "deaths"],
+        "season_stats": {
+            "monthly": ["games", "wins", "kills", "deaths"]
+        }
+    },
+    {
+        "id": "BRIDGE",
+        "name": "The Bridge",
+        "global_stats": ["games", "wins", "kills", "deaths", "points"]
+    },
+    {
+        "id": "JUMPLEAGUE",
+        "name": "Jump League",
+        "global_stats": ["games", "wins", "kills", "deaths", "checkpoints"]
+    },
+    {
+        "id": "MURDER",
+        "name": "Murder Mystery",
+        "global_stats": ["games", "total_wins", "wins_as_innocent", "wins_as_maniac", "wins_as_detective", "kills"]
+    },
+    {
+        "id": "SHEEP",
+        "name": "SheepWars",
+        "global_stats": ["games", "wins", "kills", "deaths"]
+    },
+    {
+        "id": "TURFWARS",
+        "name": "Turf Wars",
+        "global_stats": ["games", "wins", "kills", "deaths"]
+    },
+    {
+        "id": "TNTTAG",
+        "name": "TNT Tag",
+        "global_stats": ["games", "wins", "kills"]
+    },
+    {
+        "id": "TNTRUN",
+        "name": "TNT Run",
+        "global_stats": ["games", "wins", "broken_blocks"]
+    },
+    {
+        "id": "LUCKYWARS",
+        "name": "Lucky Wars",
+        "global_stats": ["games", "wins", "kills", "deaths", "lucky_blocks"]
+            
+    },
+    {
+        "id": "ZOMBIECLAUS",
+        "name": "Царство Зомби Мороза",
+        "global_stats": ["games", "wins", "kills", "gifts"]
+    },
+    {
+        "id": "WHITECOLD",
+        "name": "Белый холод",
+        "global_stats": ["games", "wins", "kills", "gifts", "chests"]
+    },
+    {
+        "id": "HIDE",
+        "name": "Hide and Seek",
+        "global_stats": ["games", "total_wins", "wins_as_seeker", "wins_as_hider", "kills"]
+    },
+    {
+        "id": "SPEEDBUILDERS",
+        "name": "Speed Builders",
+        "global_stats": ["games", "wins"]
+    },
+    {
+        "id": "FALLGUYS",
+        "name": "Fall Guys",
+        "global_stats": ["games", "wins"]
+    },
+    {
+        "id": "TEAMFORTRESS",
+        "name": "Team Fortress",
+        "global_stats": ["games", "wins", "kills", "deaths"]
+    },
+    {
+        "id": "EGGWARS",
+        "name": "Egg Wars",
+        "global_stats": ["games", "wins", "kills", "deaths", "assists", "monsters", "runes"],
+        "season_stats": {
+            "monthly": ["games", "wins", "kills", "deaths", "assists", "monsters", "runes", "rating"]
+        }
+    },
+    {
+        "id": "BATTLEBOX",
+        "name": "BattleBox",
+        "global_stats": ["games", "wins", "kills", "deaths", "score"]
+    },
+    {
+        "id": "DEATHRUN",
+        "name": "DeathRun",
+        "global_stats": ["games", "wins", "deaths", "max_score", "bonuses_collect"]
+    },
+    {
+        "id": "FARM",
+        "name": "MyLittleFarm",
+        "global_stats": ["dollars", "farm_cost"]
+    },
+    {
+        "id": "FIREBALLFIGHT",
+        "name": "Fireball Fight",
+        "global_stats": ["games", "wins", "deaths", "kills", "destroyed_beds"],
+        "season_stats": {
+            "monthly": ["games", "wins", "deaths", "kills", "destroyed_beds", "win_streak", "max_streak", "rating", "max_rating"]
+        }
+    },
+    {
+        "id": "CSS",
+        "name": "Custom Steve Survival",
+        "global_stats": ["games", "wins", "deaths", "kills", "mob_kills", "duel_games", "duel_wins", "passed_waves", "max_passed_waves_per_game", "money_earned"],
+        "season_stats": {
+            "manual": ["games", "wins", "deaths", "kills", "rating", "mob_kills", "duel_games", "duel_wins", "passed_waves", "money_earned"]
+        }
+    },
+    {
+        "id": "COR",
+        "name": "Chaos of Reign",
+        "global_stats": ["wins", "games", "played_time", "earned_gold", "destroyed_towers", "mob_kills", "player_kills", "pickup_spheres"]
+    },
+    {
+        "id": "SAO",
+        "name": "SOLOLEVELING",
+        "global_stats": ["games", "wins", "kills", "deaths", "max_level", "max_damage"]
+    }
+]
